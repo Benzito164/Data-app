@@ -1,0 +1,18 @@
+Users\Beni.Ibeh\.nuget\packages\NUnit.Runners\2.6.4\tools\nunit-console "c:\Users\Beni.Ibeh\Desktop\Bob\BOB-branch\
+BoB AT V1\bin\Debug\Bob.dll" /include=RunOnly
+
+
+
+
+Users\Beni.Ibeh\.nuget\packages\NUnit.Runners\2.6.4\tools\nunit-console "C:\Users\Beni.Ibeh\Desktop\Bob\BOB-branch\
+BoB AT V1\bin\Debug\Bob.dll/include=RunOnly" /include=RunOnly
+
+
+
+@@@@@@@@aaaaaaaaaaaaaaaaaaaaaa
+
+
+
+
+
+Users\Beni.Ibeh\.nuget\packages\NUnit.Runners\2.6.4\tools\nunit-console "Users\Beni.Ibeh\.nuget\packages\NUnit.Runners\2.6.4\tools\nunit-console "G:\Standard4(Automation)\Standard4\bin\Debug\Standard4.dll"
