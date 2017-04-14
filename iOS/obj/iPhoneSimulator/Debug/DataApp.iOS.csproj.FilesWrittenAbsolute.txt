@@ -1,0 +1,15 @@
+/Users/beni/Projects/DataApp/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/beni/Projects/DataApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/beni/Projects/DataApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/beni/Projects/DataApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/beni/Projects/DataApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/DataApp.iOS.exe.mdb
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/DataApp.iOS.exe
+/Users/beni/Projects/DataApp/iOS/obj/iPhoneSimulator/Debug/DataApp.iOS.exe
+/Users/beni/Projects/DataApp/iOS/obj/iPhoneSimulator/Debug/DataApp.iOS.exe.mdb
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/DataApp.dll
+/Users/beni/Projects/DataApp/iOS/bin/iPhoneSimulator/Debug/DataApp.dll.mdb

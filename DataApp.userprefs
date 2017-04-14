@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4F74ADC3-822D-49F8-B9AD-47BCBD4B5E64}|Default">
+  <MonoDevelop.Ide.ItemProperties.DataApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.63100A0B-92CA-41E1-AAE2-5E52CAB19867" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataApp/ListView.xaml.cs">
+    <Files>
+      <File FileName="DataApp/ListView.xaml" Line="15" Column="106" />
+      <File FileName="DataApp/ListView.xaml.cs" Line="25" Column="5" />
+      <File FileName="DataApp/DataListDisplayPage.xaml" Line="10" Column="21" />
+      <File FileName="DataApp/DataListDisplayPage.xaml.cs" Line="12" Column="26" />
+      <File FileName="DataApp/App.xaml.cs" Line="15" Column="50" />
+      <File FileName="DataApp/Models/DataClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
